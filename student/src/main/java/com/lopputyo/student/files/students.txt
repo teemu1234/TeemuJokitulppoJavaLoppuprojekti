@@ -1,0 +1,65 @@
+jooJorgos
+pena
+Kyösti
+Pena
+Naapurin
+nullnull
+PenaNaapurin
+Naapurin Pena
+Pertti Virtanen
+Mauri Kunnas
+0 joo ei
+0 ei joo
+0 pena pano
+0 Matti Pekka
+0 null null
+0 null null
+0 null null
+0 null null
+0 null null
+0 null null
+0 null null
+0 null null
+1 null null
+2 null null
+0 null null
+0 Oili Yes
+0 null null
+0 null null
+1 null null
+2 null null
+0 null null
+1 null null
+0 null null
+1 null null
+2 null null
+0 null null
+0 Jorma null
+0 null null
+1 null null
+2 null null
+0 null null
+1 null null
+2 null null
+0 null null
+0 null null
+1 null null
+2 null null
+3 null null
+4 null null
+5 null null
+0 null null
+1 null null
+0 null null
+0 null null
+0 null null
+null null
+0 null null
+1 null null
+0 null null
+1 null null
+2 null null
+3 null null
+0 null null
+1 null null
+2 null null
